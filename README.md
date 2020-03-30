@@ -5,3 +5,9 @@
 If you’re looking for a fast and lightweight code editor, Visual Studio Code has you covered. Come get an overview of Visual Studio Code along with the C++ extension that enables editing, building, and debugging your C++ code across Windows, Mac, and Linux.
 
 This Repo. is for __learning__ exercise of git and visual studio code.
+
+![Testing image](http://cppnow.org/assets/img/posts/2018/badges.h-0ab39b59.jpg)
+
+  !2020 was cancelled.
+  
+  
